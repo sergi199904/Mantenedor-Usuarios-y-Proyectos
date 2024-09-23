@@ -5,3 +5,7 @@ La empresa Tech Solutions ha decidido modernizar su sistema de gestión de proye
 han optado por utilizar un framework moderno para el desarrollo web.
 
 #Desarrollado en Php con el Framework Laravel
+
+Inicio Session(Para probar funcionalidades)
+Usuario:soyarzo@ciisa.cl
+Contraseña:hola
