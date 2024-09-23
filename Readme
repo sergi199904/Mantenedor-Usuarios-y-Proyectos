@@ -1,0 +1,27 @@
++ Código fuente de la carpeta comprimido en .ZIP
+
++ Video de la solución
+
+   + Ejecución (php artisan serve)
+
+   + Visualización del archivo .env (que apunta a su base de datos en producción)
+
+   + Guardar un registro con el nombre de cada integrante del grupo (por cada integrante un registro), con la descripción Evaluación 3 sección 71
+
+   + Registrar Proyecto con el nombre Profe Seba, descripcion borrar.
+
+   + Ver cada uno de los registros creados
+
+   + Modificar cada uno de los registros creados, alternando entre nombre y descripción o ambos.
+
+   + Modificar registro Profe Seba por Profe Sebastian Cabezas
+
+   + Encender 2 de los registros creados
+
+   + Apagar 1 de los registros creados
+
+   + Eliminar el registro de Profe Sebastian Cabezas
+
+El video debe durar máximo 5 minutos y debe ser relatado.
+
+El video lo pueden grabar con Teams, OBS, WINDOWS + G. Se sube el video a la plataforma. Si no soporta los megas se comparte el link a su onedrive  googledrive  youtube (con acceso público)
